@@ -8,6 +8,7 @@
     "bsp": "./lib/index.js"
   },
   "scripts": {
+    "rel": "release-it patch --non-interactive",
     "build": "babel ./src --out-dir ./lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
