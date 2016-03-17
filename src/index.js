@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { chain } from 'lodash'
 import { join } from 'path'
 import fs from 'fs'
