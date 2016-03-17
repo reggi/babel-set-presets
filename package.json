@@ -21,5 +21,10 @@
   },
   "dependencies": {
     "bluebird": "^3.3.4"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
   }
 }
